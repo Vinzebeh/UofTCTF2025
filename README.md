@@ -1,6 +1,7 @@
-# UofTCTF2025 - J0K3R_SM!L3 (232th/849 teams)
+# UofTCTF2025 - J0K3R_SM!L3 (238th/849 teams)
 
-![Screenshot 2025-01-12 181809](https://github.com/user-attachments/assets/1bc1c8c1-bd10-4b6b-b872-30ae72bc772b)
+![image](https://github.com/user-attachments/assets/53a71782-289b-46fa-9f39-7fee3afc3692)
+
 
 ## Challenge Solved:
 - **Crypto:** Funny Cipher
